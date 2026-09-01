@@ -20,9 +20,6 @@ Flask ve SQLite kullanılarak geliştirilmiş basit bir harcama takip uygulamas�
 
 1. Repoyu klonla:
 
-git clone https://github.com/kullaniciadin/harcama-takip.git
-cd harcama-takip
-
 2. Sanal ortam oluştur ve aktif et:
 python -m venv venv
 venv\Scripts\activate # Windows
